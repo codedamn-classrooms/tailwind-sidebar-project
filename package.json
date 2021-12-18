@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-sidebar-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codedamn-classrooms/tailwind-sidebar-project.git",
+  "author": "Pranav <pranav.techiegeek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tailwindcss": "^3.0.7"
+  }
+}
